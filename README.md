@@ -1,1 +1,1 @@
-adminpanelhsynerkl.netlify.app
+https://adminpanelhsynerkl.netlify.app/
